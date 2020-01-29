@@ -2,7 +2,7 @@
 
 A [K-Nearest Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) classifier implementation.
 
-###Files
+### Files
 
 * [KNN.py](https://github.com/hainsworth99/knn-digit-classifier/blob/master/KNN.py) - 
 The implementation of a generalized KNN classifier. The main class 
