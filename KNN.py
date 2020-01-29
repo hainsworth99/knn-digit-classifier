@@ -113,7 +113,7 @@ class KNN:
         correct_preds = 0
         for i in range(len(yhat)):
             # compare each prediction to actual classification value
-            if yhat[i] == data.val_y[i]:
+            if yhat[i] == y_test[i]:
                 correct_preds += 1
         # return accuracy
         return correct_preds/len(yhat)
